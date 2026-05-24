@@ -8,8 +8,8 @@ CarbonStride is a mobile-first platform designed to track individual low-carbon 
 
 
 #### CarbonStride can -
-###### Track sustainable/carbon-zero transport activity automatically
-###### Convert activity into verified carbon credits
-###### Enable financial rewards via a carbon marketplace
-###### Ensure transparency through secure verification technologies
-##### Operating Requirements: Mobile-first application, GPS tracking, cloud infrastructure, VCS compliance
+###### > Track sustainable/carbon-zero transport activity automatically
+###### > Convert activity into verified carbon credits
+###### > Enable financial rewards via a carbon marketplace
+###### > Ensure transparency through secure verification technologies
+##### >> Operating Requirements: Mobile-first application, GPS tracking, cloud infrastructure, VCS compliance
