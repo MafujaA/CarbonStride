@@ -13,3 +13,6 @@ CarbonStride is a mobile-first platform designed to track individual low-carbon 
 ###### > Enable financial rewards via a carbon marketplace
 ###### > Ensure transparency through secure verification technologies
 ##### >> Operating Requirements: Mobile-first application, GPS tracking, cloud infrastructure, VCS compliance
+
+
+Kaurna Agile Studio 2026
